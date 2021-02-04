@@ -28,5 +28,3 @@ It is high, but not perfect. I hope in the future I can learn more skill, and ge
 .
 
 
-## Certification
-
